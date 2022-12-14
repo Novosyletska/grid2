@@ -19,8 +19,8 @@ body {
 .company {
     display: flex;
     align-items: center;
-    width: 700px;
-    height: 200px;
+    max-width: 700px;
+    max-height: 200px;
     padding: 100px;
     line-height: 1.5;
 }
